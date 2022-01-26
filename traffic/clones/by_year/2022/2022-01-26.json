@@ -3,7 +3,7 @@
   "count" : 1,
   "count_minmax" : [ 0, 1 ],
   "count_prev_day_inc" : 5,
-  "count_prev_day_dec" : 2,
+  "count_prev_day_dec" : 6,
   "uniques" : 1,
   "uniques_minmax" : [ 0, 1 ],
   "uniques_prev_day_inc" : 2,
