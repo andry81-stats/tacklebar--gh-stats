@@ -1,3 +1,9 @@
+2022-04-01T00:28:33Z:
+* notice: last 14d: all unq: 241 9
+* notice: prev accum: outdated-all outdated-unq / all unq: 1188 328 / 1431 347
+* notice: next accum: outdated-all outdated-unq / all unq: 1190 329 / 1431 347
+* notice: prev json diff // prev day diff: unq all: +0 +0 / -0 -0 // +0 +0 / -0 -0
+
 2022-03-31T16:06:20Z:
 * notice: last 14d: all unq: 243 9
 * notice: prev accum: outdated-all outdated-unq / all unq: 1188 328 / 1429 347
