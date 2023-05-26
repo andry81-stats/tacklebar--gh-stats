@@ -1,12 +1,7 @@
 {
-  "count": 83,
-  "uniques": 24,
+  "count": 77,
+  "uniques": 23,
   "views": [
-    {
-      "timestamp": "2023-05-11T00:00:00Z",
-      "count": 6,
-      "uniques": 2
-    },
     {
       "timestamp": "2023-05-12T00:00:00Z",
       "count": 5,
